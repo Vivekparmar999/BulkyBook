@@ -506,8 +506,8 @@ C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\bin\Debug\net5.0\Stripe.n
 C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\obj\Debug\net5.0\Razor\Areas\Customer\Views\Cart\OrderConfirmation.cshtml.g.cs
 C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\Index.cshtml.g.cs
 C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\Details.cshtml.g.cs
-C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\OrderConfirmation.cshtml.g.cs
 C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\bin\Debug\net5.0\MailKit.dll
 C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\bin\Debug\net5.0\MimeKit.dll
 C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
 C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCart\Default.cshtml.g.cs
+C:\Users\146734\source\repos\BulkyBookMVC\BulkyBookWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\PaymentConfirmation.cshtml.g.cs
